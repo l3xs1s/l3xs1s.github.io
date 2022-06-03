@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Russian website title...</title>
-    <link>https://example.com/ru/post/</link>
-      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://l3xs1s.github.io/ru/post/</link>
+      <atom:link href="https://l3xs1s.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-Hans</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://l3xs1s.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/ru/post/</link>
+      <link>https://l3xs1s.github.io/ru/post/</link>
     </image>
     
     <item>
       <title>Всем кулити! Тут я расскажу о моей прошедшей неделе</title>
-      <link>https://example.com/ru/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/</link>
+      <link>https://l3xs1s.github.io/ru/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/</guid>
+      <guid>https://l3xs1s.github.io/ru/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/</guid>
       <description>&lt;h2 id=&#34;пост&#34;&gt;Пост&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе я насмотрелся мемов про МГР и теперь когда вырасту хочу стать как Реактивный Сэм Чмоня&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Дарова! Тут я расскажу о создании презентации на языке легковесной разметки Маркдаун</title>
-      <link>https://example.com/ru/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <link>https://l3xs1s.github.io/ru/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <guid>https://l3xs1s.github.io/ru/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
       <description>&lt;h2 id=&#34;предисловие&#34;&gt;Предисловие&lt;/h2&gt;
 &lt;p&gt;К сожалению я перепутал темы по которым надо создать пост. поэтому пост по Научным Языкам программирования был на прошлой неделе, а сегодня будет пост на тему создание презентаций.&lt;/p&gt;
 &lt;h2 id=&#34;ход&#34;&gt;Ход&lt;/h2&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Всем привет! Тут я расскажу о моей прошедшей неделе</title>
-      <link>https://example.com/ru/post/last-week/</link>
+      <link>https://l3xs1s.github.io/ru/post/last-week/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week/</guid>
+      <guid>https://l3xs1s.github.io/ru/post/last-week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошлой Неделе я начал гонять в Гвинт, но оказлось, что это игра на самом деле донатерская помойка. Я разачарован&lt;/p&gt;
 </description>
@@ -46,9 +46,9 @@
     
     <item>
       <title>Здравствуйте! Тут я расскажу о Языках Научного программирования</title>
-      <link>https://example.com/ru/post/science-programming/</link>
+      <link>https://l3xs1s.github.io/ru/post/science-programming/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/science-programming/</guid>
+      <guid>https://l3xs1s.github.io/ru/post/science-programming/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Bash. Сценарии командной оболочки Unix, созданные Кеном Томпсоном в начале 1970-х годов, тесно связаны с языком программирования C. &amp;hellip;
 COBOL. &amp;hellip;
@@ -63,9 +63,9 @@ JavaScript.&lt;/p&gt;
     
     <item>
       <title>Всем привет! Тут я расскажу о моей прошедшей неделе</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>https://l3xs1s.github.io/ru/post/getting-started/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>https://l3xs1s.github.io/ru/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Страдание&lt;/li&gt;
@@ -77,9 +77,9 @@ JavaScript.&lt;/p&gt;
     
     <item>
       <title>Добрый день! Тут я расскажу о Марке дауне</title>
-      <link>https://example.com/ru/post/markwown/</link>
+      <link>https://l3xs1s.github.io/ru/post/markwown/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markwown/</guid>
+      <guid>https://l3xs1s.github.io/ru/post/markwown/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Markdown — облегчённый язык разметки, созданный с целью обозначения форматирования в простом тексте, с максимальным сохранением его читаемости человеком, и пригодный для машинного преобразования в языки для продвинутых публикаций.&lt;/p&gt;
 </description>
