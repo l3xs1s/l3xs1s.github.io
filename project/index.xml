@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://l3xs1s.github.io/project/</link>
+      <atom:link href="https://l3xs1s.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us Uncomment for multi-lingual sites, and move English content into `en` sub-folder.</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://l3xs1s.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://l3xs1s.github.io/project/</link>
     </image>
     
     <item>
       <title>Project personal</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://l3xs1s.github.io/project/example/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://l3xs1s.github.io/project/example/</guid>
       <description>&lt;p&gt;This year has been tough for us. Much has changed, but, alas, the world does not stand still and we must adapt to this.&lt;/p&gt;
 &lt;p&gt;When I found out that in the new module we will not have calculus, I was glad. I thought: now I’ll pass everything without mathematical lessons at the izich &amp;hellip; How wrong I was &amp;hellip;&lt;/p&gt;
 &lt;p&gt;Having learned how many labs a week we would have to take, and how many, in my opinion, useless things, we would have to do, I wanted to get drunk.&lt;/p&gt;

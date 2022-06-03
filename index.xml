@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://l3xs1s.github.io/</link>
+      <atom:link href="https://l3xs1s.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us Uncomment for multi-lingual sites, and move English content into `en` sub-folder.</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://l3xs1s.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/</link>
+      <link>https://l3xs1s.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://l3xs1s.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://l3xs1s.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Good afternonn everyone! Here i&#39;ll describe about my last week</title>
-      <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/</link>
+      <link>https://l3xs1s.github.io/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/</guid>
+      <guid>https://l3xs1s.github.io/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/</guid>
       <description>&lt;h2 id=&#34;пост&#34;&gt;Пост&lt;/h2&gt;
 &lt;p&gt;Last week I saw enough of the MGR memes and now when I grow up I want to be like Jetstream Sam Chmonya&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>Hello there! Here I will talk about creating a presentation in Markdown, a lightweight markup language.</title>
-      <link>https://example.com/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <link>https://l3xs1s.github.io/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <guid>https://l3xs1s.github.io/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
       <description>&lt;h2 id=&#34;foreword&#34;&gt;Foreword&lt;/h2&gt;
 &lt;p&gt;Unfortunately, I mixed up the topics on which to create a post. so the post on Scientific Programming Languages ​​was last week, and today there will be a post on creating presentations.&lt;/p&gt;
 &lt;h2 id=&#34;ход&#34;&gt;Ход&lt;/h2&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Project personal</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://l3xs1s.github.io/project/example/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://l3xs1s.github.io/project/example/</guid>
       <description>&lt;p&gt;This year has been tough for us. Much has changed, but, alas, the world does not stand still and we must adapt to this.&lt;/p&gt;
 &lt;p&gt;When I found out that in the new module we will not have calculus, I was glad. I thought: now I’ll pass everything without mathematical lessons at the izich &amp;hellip; How wrong I was &amp;hellip;&lt;/p&gt;
 &lt;p&gt;Having learned how many labs a week we would have to take, and how many, in my opinion, useless things, we would have to do, I wanted to get drunk.&lt;/p&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>Hello everyone! Desribing about my last week</title>
-      <link>https://example.com/post/last-week/</link>
+      <link>https://l3xs1s.github.io/post/last-week/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week/</guid>
+      <guid>https://l3xs1s.github.io/post/last-week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Last Week I started playing Gwent, but it turned out that this game is actually a donator&amp;rsquo;s dump. I&amp;rsquo;m disappointed&lt;/p&gt;
 </description>
@@ -80,9 +80,9 @@
     
     <item>
       <title>Hello everyone! Here i will tell u about Science Programming Languages</title>
-      <link>https://example.com/post/science-programming/</link>
+      <link>https://l3xs1s.github.io/post/science-programming/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/science-programming/</guid>
+      <guid>https://l3xs1s.github.io/post/science-programming/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;bash. Unix shell scripts, created by Ken Thompson in the early 1970s, are closely related to the C programming language. &amp;hellip;
 COBOL. &amp;hellip;
@@ -97,9 +97,9 @@ JavaScript.&lt;/p&gt;
     
     <item>
       <title>Hello everyone! Here i will describe about my last week</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://l3xs1s.github.io/post/getting-started/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://l3xs1s.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Suffering&lt;/li&gt;
@@ -111,9 +111,9 @@ JavaScript.&lt;/p&gt;
     
     <item>
       <title>Hello everyone! Here i will tell u about Markdown</title>
-      <link>https://example.com/post/markwown/</link>
+      <link>https://l3xs1s.github.io/post/markwown/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markwown/</guid>
+      <guid>https://l3xs1s.github.io/post/markwown/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Markdown is a lightweight markup language designed to indicate formatting in plain text while maintaining human readability as much as possible, and suitable for machine translation into advanced publishing languages.&lt;/p&gt;
 </description>
@@ -121,9 +121,9 @@ JavaScript.&lt;/p&gt;
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://l3xs1s.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://l3xs1s.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -246,27 +246,27 @@ $$&lt;/p&gt;
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://example.com/privacy/</link>
+      <link>https://l3xs1s.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/privacy/</guid>
+      <guid>https://l3xs1s.github.io/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>https://example.com/terms/</link>
+      <link>https://l3xs1s.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/terms/</guid>
+      <guid>https://l3xs1s.github.io/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://l3xs1s.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://l3xs1s.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -283,9 +283,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://l3xs1s.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://l3xs1s.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

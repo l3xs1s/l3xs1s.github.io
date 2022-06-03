@@ -4,54 +4,34 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https://l3xs1s.github.io/ru/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="https://l3xs1s.github.io/"
     /></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https://l3xs1s.github.io/ru/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/talk/example-talk/"
+      href="https://l3xs1s.github.io/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
+      href="https://l3xs1s.github.io/ru/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://example.com/category/18-/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/category/18-/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/category/18-/"
+      href="https://l3xs1s.github.io/event/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -64,24 +44,14 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/categories/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/category/18-/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/categories/"
+      href="https://l3xs1s.github.io/ru/category/18-/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/categories/"
-    /></url>
-  <url>
-    <loc>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/"
+      href="https://l3xs1s.github.io/category/18-/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -94,194 +64,224 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/categories/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/"
+      href="https://l3xs1s.github.io/ru/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/"
+      href="https://l3xs1s.github.io/categories/"
     /></url>
   <url>
-    <loc>https://example.com/tag/operational-systems/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/operational-systems/"
+      href="https://l3xs1s.github.io/ru/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/operational-systems/"
+      href="https://l3xs1s.github.io/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-20%D0%BC%D0%B0%D1%8F-27%D0%BC%D0%B0%D1%8F/"
     /></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/"
+      href=""
     /></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/example/"
+      href="https://l3xs1s.github.io/ru/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/example/"
+      href="https://l3xs1s.github.io/post/science-programming-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/"
     /></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/tag/operational-systems/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/"
+      href="https://l3xs1s.github.io/ru/tag/operational-systems/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/"
+      href="https://l3xs1s.github.io/tag/operational-systems/"
     /></url>
   <url>
-    <loc>https://example.com/tag/real-life/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/post/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/real-life/"
+      href="https://l3xs1s.github.io/ru/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/real-life/"
+      href="https://l3xs1s.github.io/post/"
     /></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/project/example/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tags/"
+      href="https://l3xs1s.github.io/ru/project/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tags/"
+      href="https://l3xs1s.github.io/project/example/"
     /></url>
   <url>
-    <loc>https://example.com/post/last-week/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/project/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/last-week/"
+      href="https://l3xs1s.github.io/ru/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/last-week/"
+      href="https://l3xs1s.github.io/project/"
     /></url>
   <url>
-    <loc>https://example.com/post/science-programming/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/tag/real-life/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/science-programming/"
+      href="https://l3xs1s.github.io/ru/tag/real-life/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/science-programming/"
+      href="https://l3xs1s.github.io/tag/real-life/"
     /></url>
   <url>
-    <loc>https://example.com/post/getting-started/</loc><lastmod>2022-05-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/tags/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/getting-started/"
+      href="https://l3xs1s.github.io/ru/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/getting-started/"
+      href="https://l3xs1s.github.io/tags/"
     /></url>
   <url>
-    <loc>https://example.com/post/markwown/</loc><lastmod>2022-05-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/post/last-week/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/markwown/"
+      href="https://l3xs1s.github.io/ru/post/last-week/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/markwown/"
+      href="https://l3xs1s.github.io/post/last-week/"
     /></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/post/science-programming/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href="https://l3xs1s.github.io/ru/post/science-programming/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/"
+      href="https://l3xs1s.github.io/post/science-programming/"
     /></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/post/getting-started/</loc><lastmod>2022-05-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https://l3xs1s.github.io/ru/post/getting-started/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/example/"
+      href="https://l3xs1s.github.io/post/getting-started/"
     /></url>
   <url>
-    <loc>https://example.com/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/post/markwown/</loc><lastmod>2022-05-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/privacy/"
+      href="https://l3xs1s.github.io/ru/post/markwown/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/privacy/"
+      href="https://l3xs1s.github.io/post/markwown/"
     /></url>
   <url>
-    <loc>https://example.com/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/terms/"
+      href="https://l3xs1s.github.io/ru/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/terms/"
+      href="https://l3xs1s.github.io/slides/"
     /></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https://l3xs1s.github.io/ru/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="https://l3xs1s.github.io/slides/example/"
     /></url>
   <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href="https://l3xs1s.github.io/ru/privacy/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/example/"
+      href="https://l3xs1s.github.io/privacy/"
     /></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication_types/"
+      href="https://l3xs1s.github.io/ru/terms/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication_types/"
+      href="https://l3xs1s.github.io/terms/"
     /></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://l3xs1s.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/"
+      href="https://l3xs1s.github.io/ru/publication-type/1/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/"
+      href="https://l3xs1s.github.io/publication-type/1/"
+    /></url>
+  <url>
+    <loc>https://l3xs1s.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://l3xs1s.github.io/ru/publication/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://l3xs1s.github.io/publication/example/"
+    /></url>
+  <url>
+    <loc>https://l3xs1s.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://l3xs1s.github.io/ru/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://l3xs1s.github.io/publication_types/"
+    /></url>
+  <url>
+    <loc>https://l3xs1s.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://l3xs1s.github.io/ru/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://l3xs1s.github.io/publication/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
