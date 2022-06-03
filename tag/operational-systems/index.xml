@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operational Systems | Academic</title>
+    <link>https://example.com/tag/operational-systems/</link>
+      <atom:link href="https://example.com/tag/operational-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Operational Systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us Uncomment for multi-lingual sites, and move English content into `en` sub-folder.</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Operational Systems</title>
+      <link>https://example.com/tag/operational-systems/</link>
+    </image>
+    
+    <item>
+      <title>Project personal</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;This year has been tough for us. Much has changed, but, alas, the world does not stand still and we must adapt to this.&lt;/p&gt;
+&lt;p&gt;When I found out that in the new module we will not have calculus, I was glad. I thought: now I’ll pass everything without mathematical lessons at the izich &amp;hellip; How wrong I was &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Having learned how many labs a week we would have to take, and how many, in my opinion, useless things, we would have to do, I wanted to get drunk.&lt;/p&gt;
+&lt;p&gt;But as time went on, doing laboratory and personal projects became a kind of routine, and I even started to like doing all this (perhaps this is all due to some kind of masochistic tendency).&lt;/p&gt;
+&lt;p&gt;So, I hope you understand the whole way of creating these projects, and in the end I would like to quote the genius:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;What decides the fate of mankind in this world? Some invisible being or law, like the Hand of the Lord hovering over the world? At least it is true that a person has no power even over his own will.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
